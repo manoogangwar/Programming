@@ -1,0 +1,28 @@
+# a=int(input("enter lenth of cube"))
+# x=6*(a*a)
+# print("the area of cube is",x)
+
+
+#curb surface area
+
+# print('enter two no')
+# a=int(input('enter no1'))
+# b=int(input('enter no2'))
+# c=int(input('enter no3'))
+# if a>b and b>c:
+#     print('a is gr')
+# elif  b>c:  
+#     print('c is gr')  
+# else:
+#     print('b is gr')
+
+
+
+    
+
+
+
+
+
+
+
