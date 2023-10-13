@@ -1,0 +1,20 @@
+/* universal selector all hedings */
+* {
+    color: blue;
+}
+
+ /* element selector  only one heding */
+ h1 {
+    color: black;
+ }
+
+/* id selector   */
+ #hedingone{
+    color:red;
+ }
+
+ /* class selctor */
+ .myclass {
+    color: blue;
+ }
+ 

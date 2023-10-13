@@ -1,0 +1,14 @@
+#manu,#manu4
+{
+    display:block;
+    text-align: center;
+    font-size: 50px;
+}
+body{
+    background-color: aqua;
+}
+button:hover{
+    color: blueviolet;
+    background-color:red;
+    
+}

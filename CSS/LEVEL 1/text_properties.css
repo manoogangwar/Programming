@@ -1,0 +1,73 @@
+/* text propertis */
+/* 01-text_align */
+
+p {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    text-decoration: blue wavy underline;
+   
+}
+
+ /* css3 left=instart,right=end, & urdu left=end, right=start */
+
+          /* 02-text-decoration*/
+
+ /* h1{
+    text-decoration: blue wavy underline;
+
+ }  */
+
+        /* overline,line-though, */
+
+ a {
+    text-decoration: none;
+ }
+
+               /* mdn site text decoration */
+                 /* font weight */
+ #h1 {
+    font-weight: normal;
+ }
+
+ /* #h2 {
+    font-weight: lighter;
+ }
+
+ #h4{
+    font-weight: 600;
+ } */
+
+                /* text-family ----fallback mechanism */
+#one {
+    font-family:arial; 
+}
+
+#two {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+          /* units in css */
+
+  #one{
+   font-size:25px ;
+  }
+
+ #three {
+   font-size:50px;
+ } 
+
+ /* line hieght properties */
+#one {
+   line-height: 20px;
+}
+
+ /* text transfrom properties*/
+
+  #two {
+   text-transform:capitalize;
+  }
+
+  

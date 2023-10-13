@@ -1,0 +1,31 @@
+/* external stylesheet */
+/* four ground color */
+h1 {
+     color: red;
+}
+
+p {
+     color: blue;
+}
+
+button {
+     color:brown;
+     background-color: white;
+} 
+
+/* bacground color property */
+
+/* body {
+     background-color: black;
+} */
+
+body{
+     background-color: rgb(255,200,0);
+} 
+
+/* hex code(hexadecimal) */
+body {
+     background-color: #f0f000; 
+}
+
+

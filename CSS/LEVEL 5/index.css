@@ -1,0 +1,43 @@
+/* transition property */
+div {
+    height: 200px;
+    width: 200px;
+    background-color: aquamarine;
+    border: 2px solid black;
+    /* transition-property: all;
+    transition-duration: 2s;
+    transition-timing-function:steps(5);
+    transition-delay: 1s; */
+    /* transition: all 2s ease-in 1s; */
+    position: absolute;
+    top: 100px;
+    left: 100px;
+     
+     
+     transform: scale(1);
+     transition: all 2s ease-in;
+   
+
+   
+}
+
+
+div:hover{
+    background-color: red;
+    color: white;
+    font-size: 20px;
+   transform: scaleY(2);
+   /* transform: translate(100px, 80px); */
+   transform: skew(50deg);
+
+    
+    
+}
+
+div:active{
+    background-color: pink;
+}
+
+
+
+
